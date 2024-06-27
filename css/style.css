@@ -1,0 +1,15 @@
+.bg-color {
+    background-color: salmon;
+}
+
+.box {
+    min-height: 100px;
+    font-size: 25px;
+    background-color: rebeccapurple;
+}
+
+.box-2 {
+    min-height: 100px;
+    font-size: 25px;
+    background-color: yellowgreen;
+}
